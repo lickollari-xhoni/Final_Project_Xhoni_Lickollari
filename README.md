@@ -34,7 +34,7 @@ Security is our priority. Komerz implements:
 **Xhoni Lickollari**
 
 * **E-mail**: lickollarixhoni@yahoo.it
-* **LinkedIn**: linkedin.com/in/tuoprofilo
+* **LinkedIn**: [linkedin.com/in/tuoprofilo](https://www.linkedin.com/feed/update/urn:li:activity:7449475865442222080/)
 * **GitHub**: [@xhonilickollari](https://github.com/lickollari-xhoni?tab=repositories)
 * Project: Final Graduation Work 2025/2026
 
