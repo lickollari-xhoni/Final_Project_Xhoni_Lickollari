@@ -30,6 +30,12 @@ Security is our priority. Komerz implements:
 2. **Reliability:** Constant monitoring to maintain high quality standards.
 3. **User Support:** A direct line for any safety concerns.
 
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/lickollari-xhoni/Final_Project_Xhoni_Lickollari]
+   (https://github.com/lickollari-xhoni/Final_Project_Xhoni_Lickollari)
+
 ## 👤 Author
 **Xhoni Lickollari**
 
