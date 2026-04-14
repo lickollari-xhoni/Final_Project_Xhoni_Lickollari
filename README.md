@@ -1,95 +1,39 @@
-📦 Laravel & Livewire Product Management
-Un'applicazione per la gestione di prodotti sviluppata con Laravel e Livewire, che implementa funzionalità dinamiche in tempo reale senza ricaricamenti di pagina.
+# Komerz - Final Project by Xhoni Lickollari
 
-🚀 Funzionalità principali
-Real-time Search: Ricerca dei prodotti istantanea tramite componenti Livewire.
+## 🚀 Overview
+**Komerz** is a modern digital marketplace ecosystem built on three core pillars: **Security, Style, and Internationality**. 
 
-Gestione CRUD Completa:
+Unlike traditional platforms, Komerz focuses on the **circular economy**, providing a safe and intuitive bridge between buyers and sellers to ensure that value is regenerated and nothing goes to waste.
 
-Create: Validazione dinamica dei dati e feedback immediato all'utente.
+## ✨ Key Features
+- **Curated Digital Storefront:** A dynamic and user-friendly interface designed for a seamless shopping and selling experience.
+- **Manual Ad Moderation:** To ensure a "Zero Scam" environment, every single advertisement is manually reviewed by our team before going live.
+- **Dedicated Contact Center:** Integrated support system to build trust and provide immediate assistance to users.
+- **Multilingual Support:** Fully accessible in **Italian, English, and Spanish**, making the platform ready for the global market.
+- **Sustainability Driven:** Built to promote the second-hand market and reduce waste.
 
-Read: Visualizzazione tabellare con estrazione dei componenti.
+## 🛠 Tech Stack
+*List here the technologies you used. For example:*
+- **Frontend:** [e.g., HTML5, CSS3, JavaScript / React]
+- **Backend:** [e.g., Node.js / PHP / Python]
+- **Database:** [e.g., MySQL / MongoDB]
+- **Design:** Clean, minimalist UI/UX focus.
 
-Update: Modifica dei dati con popolamento automatico del form tramite Dependency Injection (Product $product).
+## 🌍 Languages Supported
+- 🇮🇹 Italian
+- 🇬🇧 English
+- 🇪🇸 Spanish
 
-Validazione Avanzata: Utilizzo di metodi protetti per le rules e messaggi di errore contestuali.
+## 🛡 Security & Trust
+Security is our priority. Komerz implements:
+1. **Active Filtering:** Manual verification of listings.
+2. **Reliability:** Constant monitoring to maintain high quality standards.
+3. **User Support:** A direct line for any safety concerns.
 
-UI/UX Ottimizzata:
+## 👤 Author
+**Xhoni Lickollari**
+- GitHub: [@xhonilickollari](https://github.com/lickollari-xhoni?tab=repositories)
+- Project: Final Graduation Work 2025/2026
 
-Alert di successo per le operazioni di salvataggio.
-
-Reset automatico dei campi del form.
-
-Gestione intelligente del polling (wire:poll) per l'aggiornamento dei dati.
-
-🛠️ Stack Tecnologico
-Framework PHP: Laravel
-
-Frontend Dinamico: Livewire
-
-Database: MySQL (con Factory e Seeder per dati fake)
-
-Styling: Blade, Bootstrap/Tailwind (tramite CDN)
-
-📂 Struttura dei Componenti Livewire
-1. ProductIndex
-Gestisce la visualizzazione della tabella prodotti e la logica di ricerca in tempo reale.
-
-File: ProductIndex.php & product-index.blade.php
-
-Key Feature: Filtro di ricerca dinamico sulla query del database.
-
-2. ProductCreate
-Gestisce la creazione di nuovi prodotti.
-
-File: ProductCreate.php & product-create.blade.php
-
-Key Feature: Validazione campo per campo e reset dello stato dopo l'invio.
-
-3. ProductEdit
-Gestisce la modifica dei prodotti esistenti.
-
-File: ProductEdit.php & product-edit.blade.php
-
-Key Feature: Dependency Injection del modello Product per il caricamento dei dati nel form.
-
-🔧 Installazione
-Clona il repository:
-
-Bash
-git clone https://github.com/tuo-username/nome-repo.git
-Installa le dipendenze:
-
-Bash
-composer install
-npm install && npm run dev
-Configura l'ambiente:
-
-Copia .env.example in .env.
-
-Configura i dati del tuo database.
-
-Genera la chiave applicativa: php artisan key:generate.
-
-Migrazioni e Seeding:
-
-Bash
-php artisan migrate --seed
-Avvia il server:
-
-Bash
-php artisan serve
-📝 Note di Sviluppo (Log dei Commit)
-Durante lo sviluppo sono stati affrontati i seguenti step:
-
-Setup iniziale di Laravel e downgrade della versione di Livewire per compatibilità.
-
-Creazione delle migrazioni, modelli e factory per i test.
-
-Sviluppo dei controller e delle rotte dedicate.
-
-Refactoring progressivo: estrazione della logica da Blade a componenti Livewire per una maggiore manutenibilità.
-
-Ottimizzazione: rimozione del polling superfluo e aggiunta di messaggi di sessione (flash data) per i feedback.
-
-Autore: Xhoni Lickollari
+---
+*Komerz: Where sustainability meets digital security.*
