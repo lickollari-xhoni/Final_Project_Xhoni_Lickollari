@@ -32,8 +32,11 @@ Security is our priority. Komerz implements:
 
 ## 👤 Author
 **Xhoni Lickollari**
-- GitHub: [@xhonilickollari](https://github.com/lickollari-xhoni?tab=repositories)
-- Project: Final Graduation Work 2025/2026
+
+* **E-mail**: lickollarixhoni@yahoo.it
+* * **LinkedIn**: linkedin.com/in/tuoprofilo
+* **GitHub**: [@xhonilickollari](https://github.com/lickollari-xhoni?tab=repositories)
+* Project: Final Graduation Work 2025/2026
 
 ---
 *Komerz: Where sustainability meets digital security.*
