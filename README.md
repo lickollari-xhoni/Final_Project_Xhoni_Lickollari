@@ -14,9 +14,9 @@ Unlike traditional platforms, Komerz focuses on the **circular economy**, provid
 
 ## 🛠 Tech Stack
 *List here the technologies you used. For example:*
-- **Frontend:** [e.g., HTML5, CSS3, JavaScript / React]
-- **Backend:** [e.g., Node.js / PHP / Python]
-- **Database:** [e.g., MySQL / MongoDB]
+- **Frontend:** [e.g., HTML5, CSS3, JavaScript]
+- **Backend:** [e.g., Node.js / PHP]
+- **Database:** [e.g., MySQL]
 - **Design:** Clean, minimalist UI/UX focus.
 
 ## 🌍 Languages Supported
